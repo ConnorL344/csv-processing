@@ -1,0 +1,4 @@
+Customer Ref,Customer Name,Address Line 1,Address Line 2,Town,County,Country,Postcode
+C001,John Doe,123 Elm St,Apt 1,Springfield,Greene,USA,12345
+C002,Jane Smith,456 Oak Ave,Suite 200,Shelbyville,Morgan,USA,67890
+C003,Emily Davis,789 Pine Rd,,Ogdenville,Clark,USA,13579
