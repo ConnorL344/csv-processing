@@ -35,6 +35,4 @@ Additional Info
 
     After running the application and successfully ingesting the data, you must run the following script in PostgreSQL to avoid a duplicate key error on subsequent runs:
 
-    sql
-
-DELETE FROM customer;
+    DELETE FROM customer;
