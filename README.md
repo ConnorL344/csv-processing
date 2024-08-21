@@ -27,8 +27,7 @@ Getting Started
     Connect the Spring Boot Application:
 
         Once connected, the Spring Boot application should look something like this:
-
-        image.
+![image](https://github.com/user-attachments/assets/64d5961c-427e-4011-a779-9bab7411fbdc)
 
 Additional Info
 
